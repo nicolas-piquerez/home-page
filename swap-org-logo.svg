@@ -1,0 +1,12 @@
+<svg width="170" height="30" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <defs transform="translate(0 -1) translate(-1 0) translate(241.4 0) translate(0 277.65)">
+   <clipPath id="svg_1">
+    <rect id="svg_28" width="317.2" height="44.6" fill="white" y="276.64999" x="240.39951"/>
+   </clipPath>
+  </defs>
+  <text transform="matrix(1.65879 0 0 1.65879 -204.105 -95.4419)" stroke="null" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Nunito SemiBold'" font-size="24" stroke-width="0" id="svg_30" y="70.07365" x="123.45484" fill="#002d74">swap.org</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="105" y="43" id="svg_2" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve"/>
+ </g>
+</svg>
